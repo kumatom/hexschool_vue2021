@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #f2f2f2;
+    color: #735249;
+}
+
+.s-text-color{
+    color:#8C4C3B;
+}
+
+.s-bg-color{
+    background-color: #DCB4A9;
+    font-weight: normal;
+    color: #fff;
+}
+
+/*
+    modal
+*/
+.modal-header{
+    background-color: #735249!important;
+    color: #fff;
+}
+
+/*
+    card
+*/
+.card{
+    border-radius: 1.25rem;
+}
+
+.card img{
+    border-top-left-radius: 1.25rem!important;
+    border-top-right-radius: 1.25rem!important;
+}
+
+.card-footer{
+    background-color: #735249;
+    border-bottom-left-radius: 1.25rem!important;
+    border-bottom-right-radius: 1.25rem!important;
+}
